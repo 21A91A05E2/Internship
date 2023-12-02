@@ -455,8 +455,8 @@ header .search-bar-container label:hover{
   padding-top: 5rem;
 }
 
-.gallery .box-container .box:hover .content{
-  top:0;
+/*.gallery .box-container .box:hover .content{
+  top:0;*/
 }
 
 .gallery .box-container .box .content h3{
